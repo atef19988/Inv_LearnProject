@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Invoice.View.View
+namespace Invoice.View.SalesForms
 {
     public partial class SaleInvoceForm : DevExpress.XtraEditors.XtraForm
     {

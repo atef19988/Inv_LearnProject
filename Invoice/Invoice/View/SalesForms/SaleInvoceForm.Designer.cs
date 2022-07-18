@@ -1,4 +1,4 @@
-﻿namespace Invoice.View.View
+﻿namespace Invoice.View.SalesForms
 {
     partial class SaleInvoceForm
     {
