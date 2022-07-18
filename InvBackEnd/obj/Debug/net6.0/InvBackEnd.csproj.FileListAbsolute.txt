@@ -1,0 +1,14 @@
+A:\Storeproj\InvBackEnd\bin\Debug\net6.0\InvBackEnd.deps.json
+A:\Storeproj\InvBackEnd\bin\Debug\net6.0\InvBackEnd.runtimeconfig.json
+A:\Storeproj\InvBackEnd\bin\Debug\net6.0\InvBackEnd.dll
+A:\Storeproj\InvBackEnd\bin\Debug\net6.0\InvBackEnd.pdb
+A:\Storeproj\InvBackEnd\obj\Debug\net6.0\InvBackEnd.csproj.AssemblyReference.cache
+A:\Storeproj\InvBackEnd\obj\Debug\net6.0\InvBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+A:\Storeproj\InvBackEnd\obj\Debug\net6.0\InvBackEnd.AssemblyInfoInputs.cache
+A:\Storeproj\InvBackEnd\obj\Debug\net6.0\InvBackEnd.AssemblyInfo.cs
+A:\Storeproj\InvBackEnd\obj\Debug\net6.0\InvBackEnd.csproj.CoreCompileInputs.cache
+A:\Storeproj\InvBackEnd\obj\Debug\net6.0\InvBackEnd.dll
+A:\Storeproj\InvBackEnd\obj\Debug\net6.0\refint\InvBackEnd.dll
+A:\Storeproj\InvBackEnd\obj\Debug\net6.0\InvBackEnd.pdb
+A:\Storeproj\InvBackEnd\obj\Debug\net6.0\InvBackEnd.genruntimeconfig.cache
+A:\Storeproj\InvBackEnd\obj\Debug\net6.0\ref\InvBackEnd.dll

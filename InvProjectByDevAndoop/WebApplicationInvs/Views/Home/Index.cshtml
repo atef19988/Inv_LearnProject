@@ -1,0 +1,28 @@
+﻿
+@model List<InvBackEnd.Models.CustomerTb>
+<table class="table">
+
+     <tr>
+      <td> Id </td>
+      <td>  CustName  </td>
+      <td> Phone  </td>
+      <td> OpiningBl </td>
+     </tr>
+@{  
+    foreach (var item in Model)
+    {      
+         <tr> 
+              <td>@item.Id </td>                
+              <td> @item.CustName</td>
+              <td> @item.Phone</td>
+              <td> @item.OpiningBl</td>
+        </tr>
+    } 
+    
+ }
+
+    </table>
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>
